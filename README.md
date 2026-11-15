@@ -1,4 +1,4 @@
-# Smart-Attendance-System-Using-ESP32-CAM
+# Smart Attendance System Using ESP32-CAM
 
 ## 📌 Project Overview
 
